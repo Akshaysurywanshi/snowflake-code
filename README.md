@@ -1,1 +1,1 @@
-# snowflake-code
+## tHIS REPOSITORY IS TO STORE SNOWFLAKE OBJECTS
