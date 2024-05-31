@@ -13,6 +13,8 @@ CREATE OR REPLACE TABLE sales_raw_tbl (
   units_sold NUMBER
 );
 
+--kjhkjg
+
 
 
 --create the final table where post cdc, data will 
